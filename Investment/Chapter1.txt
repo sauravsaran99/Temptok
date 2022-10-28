@@ -1,0 +1,275 @@
+
+********************************skill, hard work, and patience******************************************************
+
+
+/ ********************* /
+
+
+1.The Need to Invest
+
+
+1. INFLATION : Inflation is the rate of increase in prices over a given period of time.Inflation is typically a broad measure, such as the overall increase in prices or the increase in the cost of living in a country.
+
+
+
+2. The following are some of the popular asset classes.
+
+Fixed income instruments
+Equity
+Real estate
+Commodities (precious metals)
+
+
+
+3.CAGR (compound annual growth rate)
+
+
+
+4.CORPUS : A collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
+
+
+
+
+5. Key takeaways from this chapter
+           1. Invest in securing your future
+           2. The corpus you intend to build at the end of the defined period is sensitive to the return rate the investment generates. A small variation to rate can have a big impact on the corpus.
+           3. Choose an instrument that best suits your risk and return appetite.
+           4. Equity should be a part of your investment if you want to beat the inflation in the long run.
+
+
+/ ********************* /
+
+************When money is involved, human emotions in the form of greed and fear run high*************************
+
+2.Regulators
+
+/ ********************* /
+
+3.Financial Intermediaries
+
+1. A stockbroker is your access to markets, so make sure you choose a broker that matches your requirements, and services well. stockbroker is a path to reach BSE and NSE. 
+
+2. A stockbroker provides you with a trading account which is used for all market-related transactions (buying and selling of financial instruments like shares)
+
+3. A Depository is a corporate entity which holds the shares in electronic form, against your name, in your account. Your account with the depository is called the ‘DEMAT’ account.
+
+4.There are only two depositories in India – NSDL and CDSL.
+
+5.To open a DEMAT account with one of the depositaries, you need to liaison with a Depository Participant (DP). A DP functions as an agent to the Depository
+
+6.A clearing corporation works towards clearing and settling of trades executed by you.(NSCCL and ICCL)
+
+/ ********************* /
+
+4. The IPO Markets – Part 1
+
+1. Whenever a company plans such expenditure to improve the overall business, the expenditure is called ‘Capital Expenditure’ or simply ‘CAPEX’.
+
+2.  This initial money that he gets to kick start his business is called ‘The Seed Fund’.
+
+3. The investor who typically invests in such an early stage of business is called a Venture Capitalist (VC), and the money that the business gets at this stage is called Series A funding.
+
+4. The people who invest in your business in the pre-revenue stage are called Angel Investors.
+
+5. The money that angels give to start the business is called the seed fund.
+
+6. Valuation of a company simply signifies how much the company is valued at. When one values the company, they consider the company’s assets and liabilities.
+
+7. Face value is simply a denominator to indicate how much one share is originally worth.
+
+8. Venture Capitalists invest at an early stage in business; they do not risk Angel investors. The quantum of investments by a VC is usually somewhere in between an angel and private equity investment.
+
+9. The money the company spends on business expansion is called capital expenditure or CAPEX
+
+10. Series A, B, and C, etc., are all funding that the company seeks as they start evolving. Usually higher the series, higher is the investment required.
+
+11. PE firms invest large sums of money, and they usually invest at a slightly more mature stage of the business.
+
+12. Typical PE investors would like to deploy their own people on the investee company’s board to ensure business moves in the right direction.
+
+13. The valuation of the company increases as and when the business, revenues and profitability increases.
+
+14. An IPO is a process using which a company can raise fund. The funds raised can be for any valid reason – for CAPEX, restructuring debt, rewarding shareholders, etc
+
+/ ********************* /
+
+5. The IPO Markets – Part 2
+
+1. Book Building:  if the price band is between Rs.100 and Rs.120, then the public can actually choose a price they think is fair enough for the IPO issue. The process of collecting all these price points along with the respective quantities is called Book Building. Book building is perceived as an effective price discovery method
+
+2. Merchant banker acts as a key partner with the company during the IPO process
+
+3. As an investor in the IPO, you should read through the DRHP to know everything about the company
+
+
+/ ********************* /
+
+6. The Stock Markets
+
+
+1. For those who are not aware, NASSCOM is a trade association of Indian IT companies.
+
+2. Absolute Return – This is return that your trade or investment has generated in absolute terms. It helps you answer this question – I bought Infosys at 3030 and sold it 3550. How much percentage return did I generate?
+
+The formula to calculate the same is [Ending Period Value / Starting Period Value – 1]*100
+
+i.e [3550/3030 -1] *100
+
+= 0.1716 * 100
+
+= 17.16%
+
+A 17.6% is not a bad return at all!
+
+3. Compounded Annual Growth Rate (CAGR) – An absolute return can be misleading if you want to compare two investments. CAGR helps you answer this question – I bought Infosys at 3030 and held the stock for 2 years and sold it 3550. At what rate did my investment grow over the last two years?
+
+CAGR factors in the time component which we had ignored when we computed the absolute return.
+
+The formula to calculate CAGR is ..
+
+CAGR
+
+Applying this to answer the question..
+   CAGR = [Ending Period Value / Starting Period Value]^(1/[# of years]) – 1
+{[3550/3030]^(1/2) – 1} = 8.2%
+
+
+{
+4. An investor is a person who buys a stock expecting a significant appreciation in the stock. He is willing to wait for his investment to evolve. The typical holding period of investors usually runs into a few years. There are two popular types of investors..
+
+4.1 Growth Investors – The objective here is to identify companies which are expected to grow significantly because of emerging industry and macro trends. A classic example in the Indian context would be buying Hindustan Unilever, Infosys, Gillette India back in 1990s. These companies witnessed huge growth because of the change in the industry landscape thereby creating massive wealth for its shareholders.'
+
+4.2 Value Investors – The objective here is to identify good companies irrespective of whether they are in growth phase or mature phase but beaten down significantly due to the short term market sentiment thereby making a great value buy. An example of this in recent times is L&T. Due to short term negative sentiment; L&T was beaten down significantly around August/September of 2013. The stock price collapsed to 690 all the way from 1200. At 690 (given its fundamentals around Aug 2013), a company like L&T is perceived as cheap, and therefore a great value pick. Eventually it did pay off, as the stock price scaled back to 1440 around May 2014.
+Some of the really famous investors the world has seen – Charlie Munger, Peter Lynch, Benjamin Graham, Thomas Rowe, Warren Buffett, John C Bogle, John Templeton, etc.
+}
+
+5. Use absolute returns when the holding period is 1 year or less. Use CAGR to identify the growth rate over multiple years
+
+6. Traders, and investors differ on two counts – risk taking ability and the holding period.
+
+/ ********************* /
+
+7. The Stock Markets Index
+
+1. index trading is possible through the derivative markets.
+
+2. An index acts as a barometer of the whole economy.
+
+3. Index up(optimistic) || Index down(pessimistic)
+
+4.  An index can be used for a variety of purposes – information, benchmarking, trading and hedging.
+
+5. India follows the free-float market capitalization method to construct the index.
+
+/ ********************* /
+
+8. Commonly Used Jargons
+
+1. When you short, you have a bearish view on the stock. You profit if the stock price goes down. After you short, if the stock price goes up, you will end up making a loss.
+
+{
+2. Market Segment – A market segment is a division within which a certain type of financial instrument is traded.
+2.1 Capital Market
+
+2.2 Futures and Options - generally referred to as the equity derivative segment
+
+2.3 Wholesale Debt Market
+}
+
+/ ********************* /
+
+
+9. The Trading Terminal
+
+1. You choose CNC as product type if you want to buy and hold the stock across multiple days. If you want to trade intraday, you choose NRML or MIS.
+
+2. Some of the basic information on a market watch is – LTP, % change, OHLC, and volumes.
+
+/ ********************* /
+
+10 . Clearing and Settlement Process
+
+
+1. All equity/stock settlements in India happen on a T+2 basis.
+
+/ ********************* /
+
+11. Five Corporate Actions and Its Impact on Stock Prices
+
+1. The decision to pay a dividend is taken in the Annual General Meeting (AGM).
+
+2. Corporate actions have an impact on stock prices.
+
+3. Dividends are a means of rewarding shareholders. The dividend is announced as a percentage of the face value.
+
+4. A bonus issue is a form of the stock dividend. This is the company’s way of rewarding the shareholders with additional shares.
+
+5. A stock split is done based on the face value. The face value and the stock price changes in proportion to the change in face value
+
+6. A rights issue is a way through which the company raises fresh capital from the existing shareholders. Subscribe to it only if you think it makes sense
+
+7. Buyback signals a positive outlook of the promoters. This also conveys to the shareholders that the promoters are optimistic about the company’s prospects.
+
+8. A stock option is a form of the stock dividend. This is the company’s way of rewarding the shareholders with additional shares.
+
+/ ********************* /
+
+12. Key Events and Their Impact on Markets
+
+1. The monetary policy is a tool with which the Reserve Bank of India (RBI) controls the money supply by controlling the interest rates.
+
+2. Repo Rate – Whenever banks want to borrow money, they can borrow from the RBI. The rate at which RBI lends money to other banks is called the repo rate. Markets don’t like the RBI increasing the repo rates.
+
+3. An increase in reverse repo rate is not great for the economy as it tightens the supply of money.
+
+4. Cash reserve ratio (CRR) – Every bank is mandatorily required to maintain funds with RBI. The amount that they maintain is dependent on the CRR. If CRR increases, then more money is removed from the system, which is not good for the economy.
+
+5. There are two types of inflation indices – Wholesale Price Index (WPI) and Consumer Price Index (CPI).
+
+6. The RBI’s challenge is to strike a balance between inflation and interest rates. Usually, a low-interest rate tends to increase inflation, and a high-interest rate tends to arrest inflation.
+
+7. The RBI meets every two months to review the rates. This is a key event that the market watches out for. The first to react to rate decisions would be interest-rate sensitive stocks across various sectors such as – banks, automobile, housing finance, real estate, metals, etc.
+
+8. The Index of Industrial Production (IIP)  is a short-term indicator of how the country’s industrial sector is progressing. The data is released every month (along with inflation data) by the Ministry of Statistics and Programme Implementation (MOSPI).
+
+9. If the IIP is increasing it indicates a vibrant industrial environment (as the production is going up) and hence a positive sign for the economy and markets. A decreasing IIP indicates a sluggish production environment, hence a negative sign for the economy and markets.
+
+   * IIP measures industrial production activity. Increase in IIP cheers the markets, and lower IIP disappoints the market.
+
+10. The Purchasing managers’ index (PMI) is an economic indicator that tries to capture business activity across the country’s manufacturing and service sectors. The data is released by the Ministry of Statistics and Programme Implementation (MOSPI).
+
+   * PMI is a survey-based business sentiment indicator. The PMI number oscillates around the 50 marks. Above 50 is good news to markets, and PMI below 50 is not.
+
+11. The PMI number usually oscillates around 50. A reading above 50 indicates expansion, and below 50 indicates a contraction in the economy. And reading at 50 indicates no change in the economy.
+
+12. Corporate Earnings Announcement
+
+01	April to June	Quarter 1 (Q1)	1st week of July
+02	July to September	Quarter 2 (Q2)	1st week of Oct
+03	October to December	Quarter 3 (Q3)	1st Week of Jan
+04	January to March	Quarter 4 (Q4)	1st Week of April
+
+13. Monetary policy is one of the most important economic events. During the monetary policy, review actions on a repo, reverse repo, CRR etc. are initiated.
+
+14. Inflation data is released every month by MOSPI. As a consumer, CPI inflation data is what you need to track.
+
+** The market participant should develop a point of view and complement the POV with the right trading instrument. A well researched POV combined with the right instrument to trade is a perfect recipe for market success. **
+
+/******************/
+14. Supplementary note – Rights, OFS, FPO
+
+1. An OFS(offer for sale) is used to offload Promoters’ shares while an FPO is used to fund new projects.
+  * Permoters sell there own share in the market. And money goes directly to them.
+
+2. Dilution of shares is allowed in an FPO leading to change in Shareholding structure while OFS does not affect the number of authorized shares.
+
+3. Only the top 200 companies by Market Capitalisation can use the OFS route to raise funds while all listed companies can use FPO option.
+
+4. Ever since SEBI has introduced OFS, FPO issues have come down, and companies prefer to choose the OFS route to raise funds
+
+/******************/
+
+15. Supplementary note – The 20 market depth or level 3 data
+
+
+
